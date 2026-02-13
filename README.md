@@ -1,3 +1,3 @@
 # myfirstrepo
 
-This is just an example repo.
+This is just an example repo for the workshop.
